@@ -22,9 +22,6 @@ body {
 	background-color: #fffded;
 	
 }
-a:focus, a:hover {
-	font-style: italic;
-}
 /* the styles for the header */
 header h2 {
 	font-size: 175%;
